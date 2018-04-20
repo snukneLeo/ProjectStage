@@ -28,9 +28,9 @@
       <b>similarity.ini:</b> contiene le similarità più particolari tra i file che vengono inseriti nel tool
       <li>
       <br>
-      <blockquote>!NOTA: E' possibile aprire il file similarity.ini!</blockquote>
+      <blockquote><b>Nota: E' possibile aprire il file similarity.ini</b></blockquote>
     </ul>
     </p>
-    <blockquote>!A causa del dataset limitato non è possibile dire chi è l'autore dei malware analizzati!</blockquote> <br>
+    <blockquote><b>A causa del dataset limitato non è possibile dire chi è l'autore dei malware analizzati</b></blockquote> <br>
   </body>
 </html>
