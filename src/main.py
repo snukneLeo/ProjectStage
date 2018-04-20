@@ -3,8 +3,9 @@ import sys
 import xml.etree.ElementTree as ET
 import os
 
-name1 = ""
-name2 = ""
+#entro nella cartella example
+name1 = "example/"
+name2 = "example/"
 
 #INSERIMENTO FILE DA RIGA DI COMANDO
 while(1):
@@ -14,9 +15,10 @@ while(1):
     else:
         break
 
-name1 = sys.argv[1]
-name2 = sys.argv[2]
+name1 += sys.argv[1]
+name2 += sys.argv[2]
 
+print(name1)
 
 nomiTransfer = list()
 nomiTransfer.append(name1)
