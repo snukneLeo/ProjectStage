@@ -26,7 +26,7 @@
       </li>
       <li>
       <b>similarity.ini:</b> contiene le similarità più particolari tra i file che vengono inseriti nel tool
-      <li>
+      </li>
       <br>
       <blockquote><b>Nota: E' possibile aprire il file similarity.ini</b></blockquote>
     </ul>
