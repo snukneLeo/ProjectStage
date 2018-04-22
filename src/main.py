@@ -18,7 +18,22 @@ while(1):
 name1 += sys.argv[1]
 name2 += sys.argv[2]
 
-print(name1)
+full = ""
+if os.path.isfile("file.ini"): #se esiste il file
+    print("found")
+else:
+    print("not found...Create...")
+    with open("file.ini","w") as createFile:
+        print("create ok")
+        createFile.write("exists:0:title:0")
+
+with open("file.ini","r") as readFullTool:
+    full = readFullTool.read()
+    if full.split(":")[1] == "1" and full.split(":")[3] == "1":
+        print("\n")
+        print("Puoi vedere le similarità tra i 4 file sul file 'similarity.ini'\n")
+        print("Si prega di eliminare il file 'similarity.ini', 'namefile.ini' e 'file.ini'")
+        exit()
 
 nomiTransfer = list()
 nomiTransfer.append(name1)
