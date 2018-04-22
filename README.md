@@ -42,4 +42,4 @@
 </html>
 <br>
 Info <b>Licenza</b>: <br>
-[View License](https://github.com/snukneLeo/ProjectStage/LICENSE)
+[View License](https://github.com/snukneLeo/ProjectStage/blob/master/LICENSE)
