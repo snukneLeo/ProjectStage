@@ -15,6 +15,11 @@
     <p>
     <pre> $ ./python3 main.py nomefile1.json nomefile2.json </pre><br>
     </p>
+    <p>
+      <blockquote>
+        Una volta eseguito il tool 2 volte consecutive richiederà l'eliminazione di alcuni file specificati
+      </blockquote>
+    </p>
     <h2> Cosa crea il tool: </h2> <br>
     <p>
     <ul>
@@ -30,11 +35,6 @@
       <br>
       <blockquote><b>Nota: E' possibile aprire il file similarity.ini</b></blockquote>
     </ul>
-    </p>
-    <p>
-      <blockquote>
-        Una volta eseguito il tool 2 volte consecutive richiederà l'eliminazione di alcuni file specificati
-      </blockquote>
     </p>
     <br><br>
     <blockquote><b>A causa del dataset limitato non è possibile dire chi è l'autore dei malware analizzati</b></blockquote> <br>
