@@ -4,7 +4,7 @@
 <html>
   <head></head>
   <body>
-    <h2> Descrizione tool </h2>
+    <h2> Descrizione progetto e tool </h2>
     <p>
     Il progetto in questione ha lo scopo di determinare, analizzando un codice malevolo, di determinare l'autore di quel codice. <br>
     Il tool cerca di analizzare un dataset didattico, realizzato con una traduzione MIST dal codice malevolo vero e proprio. <br>
