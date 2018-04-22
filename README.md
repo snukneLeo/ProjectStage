@@ -33,7 +33,7 @@
       <b>similarity.ini:</b> contiene le similarità più particolari tra i file che vengono inseriti nel tool
       </li>
       <br>
-      <blockquote><b>Nota: E' possibile aprire il file similarity.ini</b></blockquote>
+      <blockquote><b>Nota: E' possibile aprire il file similarity.ini per osservare i risultati</b></blockquote>
     </ul>
     </p>
     <br><br>
