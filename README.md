@@ -37,9 +37,8 @@
     </ul>
     </p>
     <br><br>
-    <blockquote><b>A causa del dataset limitato non è possibile dire chi è l'autore dei malware analizzati</b></blockquote> <br>
+    <h4> Conclusioni:</h4> <br>
+    <pre><b>A causa del dataset limitato non è possibile dire chi è l'autore dei malware analizzati</b></pre> <br>
   </body>
 </html>
 <br>
-Info <b>Licenza</b>: <br>
-![View License](https://github.com/snukneLeo/ProjectStage/blob/master/LICENSE)
