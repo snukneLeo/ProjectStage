@@ -31,6 +31,15 @@
       <blockquote><b>Nota: E' possibile aprire il file similarity.ini</b></blockquote>
     </ul>
     </p>
+    <p>
+      <blockquote>
+        Una volta eseguito il tool 2 volte consecutive richiederà l'eliminazione di alcuni file specificati
+      </blockquote>
+    </p>
+    <br><br>
     <blockquote><b>A causa del dataset limitato non è possibile dire chi è l'autore dei malware analizzati</b></blockquote> <br>
   </body>
 </html>
+<br>
+Info <b>Licenza</b>: <br>
+[View License](https://github.com/snukneLeo/ProjectStage/LICENSE)
